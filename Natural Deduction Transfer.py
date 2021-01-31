@@ -9,5 +9,6 @@ while True:
     a = a.replace("dj","↔")
     a = a.replace("cz","∃")
     a = a.replace("sy","∀")
+    a = a.replace("fe","┓")
     pyperclip.copy(a)
     i = input("")
